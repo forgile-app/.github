@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.png" alt="Forgile" width="200"/>
+  <img src="./logo.svg" alt="Forgile" width="200"/>
   <br/><br/>
   <p>Onde pessoas são forjadas em desenvolvedores — Código · Caráter · Carreira</p>
   <br/>
