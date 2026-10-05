@@ -40,7 +40,7 @@ O primeiro passo é o **Código**: aprender programação praticando de verdade.
 | Backend | Java 25 · Spring Boot 4.1 · monólito modular |
 | Banco | PostgreSQL 18 · Liquibase |
 | Frontend | React 19 · TypeScript · Vite · TanStack Query |
-| Execução de código | Judge0, isolado do backend |
+| Execução de código | Executor próprio (Piston + isolate) com o Java mais recente |
 | IA | Spring AI (dicas e explicações de erros) |
 | Infra | Docker Compose · GitHub Actions |
 
